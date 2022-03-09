@@ -1,12 +1,30 @@
 # 파이썬 tkinter로 간단한 GUI 계산기 만들기
 
-![image description](https://im5.ezgif.com/tmp/ezgif-5-2a5e6dc1e3.webp)
-
-**[블로그 보기 click](https://ehyssng.tistory.com/170)**
-
 안녕하세요. 이번에는 **파이썬 tkinter를 이용하여 간단한 GUI 계산기**를 만들어보았습니다.
 
 </br>
+
+![image description](https://im5.ezgif.com/tmp/ezgif-5-58aa55c7df.webp)
+
+제가 구현해 본 계산기 프로젝트를 사용하는 GIF입니다.
+
+</br>
+
+>**[블로그 보기 click](https://ehyssng.tistory.com/170)**
+
+</br>
+
+___
+# 구현하고 싶은 기능
+
+* 숫자와 사칙연산을 입력하여 계산
+* clear 버튼으로 초기화
+* 계산되지 않는 식은 "ERROR" 표시 
+
+</br>
+
+___
+# 구현방법
 
 tkinter는 파이썬에서 **기본으로 제공되는 인터페이스**로 **다이얼로그**를 만들어주는 인터페이스입니다.
 
